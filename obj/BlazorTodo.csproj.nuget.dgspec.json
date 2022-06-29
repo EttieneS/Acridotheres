@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programs\\BlazorTodo\\BlazorTodo.csproj": {}
+    "C:\\Programs\\BlazorTodo\\Acridotheres\\BlazorTodo.csproj": {}
   },
   "projects": {
-    "C:\\Programs\\BlazorTodo\\BlazorTodo.csproj": {
+    "C:\\Programs\\BlazorTodo\\Acridotheres\\BlazorTodo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programs\\BlazorTodo\\BlazorTodo.csproj",
+        "projectUniqueName": "C:\\Programs\\BlazorTodo\\Acridotheres\\BlazorTodo.csproj",
         "projectName": "BlazorTodo",
-        "projectPath": "C:\\Programs\\BlazorTodo\\BlazorTodo.csproj",
+        "projectPath": "C:\\Programs\\BlazorTodo\\Acridotheres\\BlazorTodo.csproj",
         "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-        "outputPath": "C:\\Programs\\BlazorTodo\\obj\\",
+        "outputPath": "C:\\Programs\\BlazorTodo\\Acridotheres\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

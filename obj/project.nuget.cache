@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SSCWZ/XHKEGKlq+dB+Lzctao6cB/iSvfnZxwimjJzYE92dNxZmvxbtgyuqeeAA+1Z91Mgsx8VgVsEfTTWhaWzQ==",
+  "dgSpecHash": "a4zhfOODPRCDbpbkcgFLhvKCxebbUzw/vZnuGJTv8li0zZUu9bSUF38HRrwNfZOHbhMi3pXyxUl+5WwpvVssjw==",
   "success": true,
-  "projectFilePath": "C:\\Programs\\BlazorTodo\\BlazorTodo.csproj",
+  "projectFilePath": "C:\\Programs\\BlazorTodo\\Acridotheres\\BlazorTodo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\smith\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.4\\microsoft.aspnetcore.authorization.6.0.4.nupkg.sha512",
     "C:\\Users\\smith\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.4\\microsoft.aspnetcore.components.6.0.4.nupkg.sha512",
